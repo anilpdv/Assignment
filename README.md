@@ -11,4 +11,4 @@ Assignment App
 
 [Assignment] is THE SHORT assignment app.
 
-[![Aimeos TYPO3 demo](https://github.com/anilpdv/Assignment/assignment.jpeg)]
+[![Aimeos TYPO3 demo](https://github.com/anilpdv/Assignment/assignment.jpeg)](https://github.com/anilpdv/Assignment/assignment.jpeg)
